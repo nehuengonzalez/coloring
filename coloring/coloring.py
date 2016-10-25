@@ -1,4 +1,4 @@
-from pulp import *
+rom pulp import *
 import igraph
 
 
